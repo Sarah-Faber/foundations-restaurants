@@ -1,0 +1,25 @@
+.header {
+    color:black;
+    background-color: #E0D5B8;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .restaurant-list {
+    color:black;
+    float: left;
+    width: 50%;
+  }
+  
+.picture{
+    float:left;
+    width:50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
